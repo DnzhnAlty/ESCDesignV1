@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=GND Pin=C14-1
+Removed Pin From Net: NetName=XTAL1 Pin=C14-2
+Removed Pin From Net: NetName=GND Pin=C15-1
+Removed Pin From Net: NetName=XTAL2 Pin=C15-2
+Removed Pin From Net: NetName=MCU_MOSI Pin=P1-1
+Removed Pin From Net: NetName=MCU_MISO Pin=P1-2
+Removed Pin From Net: NetName=MCU_SCK0 Pin=P1-3
+Removed Pin From Net: NetName=MCU_RESET Pin=P1-4
+Removed Pin From Net: NetName=GND Pin=P1-7
+Removed Pin From Net: NetName=XTAL1 Pin=Y1-1
+Removed Pin From Net: NetName=XTAL2 Pin=Y1-2
+Removed Member From Class: ClassName=Atmega328PB Member=C14
+Removed Member From Class: ClassName=Atmega328PB Member=C15
+Removed Member From Class: ClassName=Atmega328PB Member=P1
+Removed Member From Class: ClassName=Atmega328PB Member=Y1

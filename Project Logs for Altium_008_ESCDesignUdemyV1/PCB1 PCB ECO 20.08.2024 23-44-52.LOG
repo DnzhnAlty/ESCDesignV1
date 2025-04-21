@@ -1,0 +1,562 @@
+Added Component: Designator=C1(0603_UnP_Capacitor)
+Add component (AddParameter): Name = "Capacitor Type"; Value = "Unpolarized"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitor Value"; Value = "10nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.ozdisan.com/passive-components/resistors/smt-smd-and-chip-resistors/PS03W4F1003T5E/592727"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Ref"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "SAMSUNG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Working Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CL10B103KB8NNNC"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found MURATA GRM188 0603_1608
+Add Component: Footprint Not Found CAP 0603_1608
+Added Component: Designator=C4(0603_UnP_Capacitor)
+Add component (AddParameter): Name = "Capacitor Type"; Value = "Unpolarized"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitor Value"; Value = "22uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.ozdisan.com/passive-components/capacitors/smt-smd-and-mlcc-capacitors/CL10B392KB8NNNC/26336"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Ref"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "SAMSUNG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Working Voltage"; Value = "6.3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CL10B103KB8NNNC"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found MURATA GRM188 0603_1608
+Added Component: Designator=C6(0603_UnP_Capacitor)
+Add component (AddParameter): Name = "Capacitor Type"; Value = "Unpolarized"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitor Value"; Value = "22uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.ozdisan.com/passive-components/capacitors/smt-smd-and-mlcc-capacitors/CL10B392KB8NNNC/26336"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Ref"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "SAMSUNG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Working Voltage"; Value = "6.3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CL10B103KB8NNNC"; VariantName = "[No Variations]"
+Added Component: Designator=C7(0603_UnP_Capacitor)
+Add component (AddParameter): Name = "Capacitor Type"; Value = "Unpolarized"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitor Value"; Value = "3.9nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.ozdisan.com/passive-components/capacitors/smt-smd-and-mlcc-capacitors/CL10B392KB8NNNC/26336"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Ref"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "SAMSUNG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Working Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CL10B103KB8NNNC"; VariantName = "[No Variations]"
+Added Component: Designator=C8(0603_UnP_Capacitor)
+Add component (AddParameter): Name = "Capacitor Type"; Value = "Unpolarized"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitor Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.ozdisan.com/passive-components/resistors/smt-smd-and-chip-resistors/PS03W4F1003T5E/592727"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Ref"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YUDEN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Working Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "UMK107BBJ225KA-T"; VariantName = "[No Variations]"
+Added Component: Designator=C9(0603_UnP_Capacitor)
+Add component (AddParameter): Name = "Capacitor Type"; Value = "Unpolarized"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitor Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.ozdisan.com/passive-components/resistors/smt-smd-and-chip-resistors/PS03W4F1003T5E/592727"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Ref"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YUDEN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Working Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "UMK107BBJ225KA-T"; VariantName = "[No Variations]"
+Added Component: Designator=C10(0805_Capacitor_Special_CC0805KKX7R9BB106)
+Add component (AddParameter): Name = "Capacitor Type"; Value = "Unpolarized"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitor Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.ozdisan.com/passive-components/capacitors/smt-smd-and-mlcc-capacitors/CL10B392KB8NNNC/26336"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Ref"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Working Voltage"; Value = "50VDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CC0805KKX7R9BB106"; VariantName = "[No Variations]"
+Added Component: Designator=C11(0805_Capacitor_Special_CC0805KKX7R9BB106)
+Add component (AddParameter): Name = "Capacitor Type"; Value = "Unpolarized"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitor Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.ozdisan.com/passive-components/capacitors/smt-smd-and-mlcc-capacitors/CL10B392KB8NNNC/26336"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Ref"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Working Voltage"; Value = "50VDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CC0805KKX7R9BB106"; VariantName = "[No Variations]"
+Added Component: Designator=C12(0603_UnP_Capacitor)
+Add component (AddParameter): Name = "Capacitor Type"; Value = "Unpolarized"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitor Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.ozdisan.com/passive-components/resistors/smt-smd-and-chip-resistors/PS03W4F1003T5E/592727"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Ref"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YUDEN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Working Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "UMK107BBJ225KA-T"; VariantName = "[No Variations]"
+Added Component: Designator=C13(0805_Capacitor_Special_CC0805KKX7R9BB106)
+Add component (AddParameter): Name = "Capacitor Type"; Value = "Unpolarized"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitor Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.ozdisan.com/passive-components/capacitors/smt-smd-and-mlcc-capacitors/CL10B392KB8NNNC/26336"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Ref"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Working Voltage"; Value = "50VDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CC0805KKX7R9BB106"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found CAP 0603_1608
+Add Component: Footprint Not Found CAP 0603_1608
+Added Component: Designator=D1(LED Diode 0603)
+Add component (AddParameter): Name = "Color"; Value = "Red"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Ref"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "SMD"; VariantName = "[No Variations]"
+Added Component: Designator=D2(1N4148_Diode)
+Add component (AddParameter): Name = "Diode Types"; Value = "Switching"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Ref"; Value = "Diodes"; VariantName = "[No Variations]"
+Added Component: Designator=D3(1N4148_Diode)
+Add component (AddParameter): Name = "Diode Types"; Value = "Switching"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Ref"; Value = "Diodes"; VariantName = "[No Variations]"
+Added Component: Designator=D4(1N4148_Diode)
+Add component (AddParameter): Name = "Diode Types"; Value = "Switching"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Ref"; Value = "Diodes"; VariantName = "[No Variations]"
+Added Component: Designator=D5(DIOM4336X24N)
+Add component (AddParameter): Name = "Forward Voltage"; Value = "0.21 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Reverse Voltage"; Value = "15 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "SCHOTTKY DIODE"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found SOIC127P600X170_HS-9N
+Added Component: Designator=IC2(IRLR7843_DPAK229P991X239-3N)
+Add component (AddParameter): Name = "Library Ref"; Value = "Mosfets"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mosfet Type"; Value = "N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "D-Pack"; VariantName = "[No Variations]"
+Added Component: Designator=IC3(IRLR7843_DPAK229P991X239-3N)
+Add component (AddParameter): Name = "Library Ref"; Value = "Mosfets"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mosfet Type"; Value = "N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "D-Pack"; VariantName = "[No Variations]"
+Added Component: Designator=IC4(IRLR7843_DPAK229P991X239-3N)
+Add component (AddParameter): Name = "Library Ref"; Value = "Mosfets"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mosfet Type"; Value = "N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "D-Pack"; VariantName = "[No Variations]"
+Added Component: Designator=IC5(IRLR7843_DPAK229P991X239-3N)
+Add component (AddParameter): Name = "Library Ref"; Value = "Mosfets"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mosfet Type"; Value = "N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "D-Pack"; VariantName = "[No Variations]"
+Added Component: Designator=IC6(IRLR7843_DPAK229P991X239-3N)
+Add component (AddParameter): Name = "Library Ref"; Value = "Mosfets"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mosfet Type"; Value = "N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "D-Pack"; VariantName = "[No Variations]"
+Added Component: Designator=IC7(IRLR7843_DPAK229P991X239-3N)
+Add component (AddParameter): Name = "Library Ref"; Value = "Mosfets"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mosfet Type"; Value = "N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "D-Pack"; VariantName = "[No Variations]"
+Added Component: Designator=L1(IHLP-2525CZ-11_Inductor)
+Add component (AddParameter): Name = "Library Ref"; Value = "Inductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current (Max)"; Value = "4A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage (Max)"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Inductance Value"; Value = "10 µH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Inductor Type"; Value = "Iron Core"; VariantName = "[No Variations]"
+Added Component: Designator=P1(Single 7-Pin (2.54mm) Female Header)
+Add component (AddParameter): Name = "Type"; Value = "HEADER"; VariantName = "[No Variations]"
+Added Component: Designator=R1(0603_Resistor_Case)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.ozdisan.com/passive-components/resistors/smt-smd-and-chip-resistors/PS03W4F1003T5E/592727"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Ref"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ROYALOHM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Working Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "PS03W4F1003T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "1/4W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Value"; Value = "100K Ohms"; VariantName = "[No Variations]"
+Added Component: Designator=R2(0603_Resistor_Case)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.ozdisan.com/passive-components/resistors/smt-smd-and-chip-resistors/PS03W4F1003T5E/592727"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Ref"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ROYALOHM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CQ03SAF1000T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Value"; Value = "100 Ohms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage (Max)"; Value = "75V"; VariantName = "[No Variations]"
+Added Component: Designator=R3(0603_Resistor_Case)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.ozdisan.com/passive-components/resistors/smt-smd-and-chip-resistors/PS03W4F1003T5E/592727"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Ref"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ROYALOHM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Working Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RI0603L104JT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Value"; Value = "44.2K Ohms"; VariantName = "[No Variations]"
+Added Component: Designator=R4(0603_Resistor_Case)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.ozdisan.com/passive-components/resistors/smt-smd-and-chip-resistors/PS03W4F1003T5E/592727"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Ref"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "HOTTECH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Working Voltage"; Value = "75V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "PS03W4F1003T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Value"; Value = "10K Ohms"; VariantName = "[No Variations]"
+Added Component: Designator=R5(0603_Resistor_Case)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.ozdisan.com/passive-components/resistors/smt-smd-and-chip-resistors/PS03W4F1003T5E/592727"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Ref"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Working Voltage"; Value = "75V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0603JR-076K8L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Value"; Value = "6.8K Ohms"; VariantName = "[No Variations]"
+Added Component: Designator=R6(0603_Resistor_Case)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.ozdisan.com/passive-components/resistors/smt-smd-and-chip-resistors/PS03W4F1003T5E/592727"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Ref"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ROYALOHM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CQ03SAF1000T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Value"; Value = "100 Ohms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage (Max)"; Value = "75V"; VariantName = "[No Variations]"
+Added Component: Designator=R7(0603_Resistor_Case)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.ozdisan.com/passive-components/resistors/smt-smd-and-chip-resistors/PS03W4F1003T5E/592727"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Ref"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ROYALOHM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CQ03SAF1000T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Value"; Value = "100 Ohms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage (Max)"; Value = "75V"; VariantName = "[No Variations]"
+Added Component: Designator=R8(0603_Resistor_Case)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.ozdisan.com/passive-components/resistors/smt-smd-and-chip-resistors/PS03W4F1003T5E/592727"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Ref"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ROYALOHM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CQ03SAF1000T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Value"; Value = "100 Ohms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage (Max)"; Value = "75V"; VariantName = "[No Variations]"
+Added Component: Designator=R9(0603_Resistor_Case)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.ozdisan.com/passive-components/resistors/smt-smd-and-chip-resistors/PS03W4F1003T5E/592727"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Ref"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ROYALOHM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CQ03SAF1000T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Value"; Value = "100 Ohms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage (Max)"; Value = "75V"; VariantName = "[No Variations]"
+Added Component: Designator=R10(0603_Resistor_Case)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.ozdisan.com/passive-components/resistors/smt-smd-and-chip-resistors/PS03W4F1003T5E/592727"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Ref"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ROYALOHM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CQ03SAF1000T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Value"; Value = "100 Ohms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage (Max)"; Value = "75V"; VariantName = "[No Variations]"
+Added Component: Designator=R11(0603_Resistor_Case)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.ozdisan.com/passive-components/resistors/smt-smd-and-chip-resistors/PS03W4F1003T5E/592727"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Ref"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ROYALOHM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CQ03SAF1000T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Value"; Value = "100 Ohms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage (Max)"; Value = "75V"; VariantName = "[No Variations]"
+Added Component: Designator=R12(0603_Resistor_Case)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.ozdisan.com/passive-components/resistors/smt-smd-and-chip-resistors/PS03W4F1003T5E/592727"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Ref"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ROYALOHM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "0603SAJ0333T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Value"; Value = "33K Ohms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage (Max)"; Value = "75V"; VariantName = "[No Variations]"
+Added Component: Designator=R13(0603_Resistor_Case)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.ozdisan.com/passive-components/resistors/smt-smd-and-chip-resistors/PS03W4F1003T5E/592727"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Ref"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ROYALOHM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "0603SAJ0333T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Value"; Value = "33K Ohms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage (Max)"; Value = "75V"; VariantName = "[No Variations]"
+Added Component: Designator=R14(0603_Resistor_Case)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.ozdisan.com/passive-components/resistors/smt-smd-and-chip-resistors/PS03W4F1003T5E/592727"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Ref"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ROYALOHM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "0603SAJ0333T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Value"; Value = "33K Ohms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage (Max)"; Value = "75V"; VariantName = "[No Variations]"
+Added Component: Designator=R15(0603_Resistor_Case)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.ozdisan.com/passive-components/resistors/smt-smd-and-chip-resistors/PS03W4F1003T5E/592727"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Ref"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ROYALOHM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "0603SAJ0333T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Value"; Value = "33K Ohms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage (Max)"; Value = "75V"; VariantName = "[No Variations]"
+Added Component: Designator=R16(0603_Resistor_Case)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.ozdisan.com/passive-components/resistors/smt-smd-and-chip-resistors/PS03W4F1003T5E/592727"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Ref"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ROYALOHM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "0603SAJ0333T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Value"; Value = "33K Ohms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage (Max)"; Value = "75V"; VariantName = "[No Variations]"
+Added Component: Designator=R17(0603_Resistor_Case)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.ozdisan.com/passive-components/resistors/smt-smd-and-chip-resistors/PS03W4F1003T5E/592727"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Ref"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ROYALOHM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "0603SAJ0333T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Value"; Value = "33K Ohms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage (Max)"; Value = "75V"; VariantName = "[No Variations]"
+Added Component: Designator=R18(0603_Resistor_Case)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.ozdisan.com/passive-components/resistors/smt-smd-and-chip-resistors/PS03W4F1003T5E/592727"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Ref"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "HOTTECH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Working Voltage"; Value = "75V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "PS03W4F1003T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Value"; Value = "10K Ohms"; VariantName = "[No Variations]"
+Added Component: Designator=R19(0603_Resistor_Case)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.ozdisan.com/passive-components/resistors/smt-smd-and-chip-resistors/PS03W4F1003T5E/592727"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Ref"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "HOTTECH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Working Voltage"; Value = "75V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "PS03W4F1003T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Value"; Value = "10K Ohms"; VariantName = "[No Variations]"
+Added Component: Designator=R20(0603_Resistor_Case)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.ozdisan.com/passive-components/resistors/smt-smd-and-chip-resistors/PS03W4F1003T5E/592727"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Ref"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "HOTTECH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Working Voltage"; Value = "75V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "PS03W4F1003T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Value"; Value = "10K Ohms"; VariantName = "[No Variations]"
+Added Component: Designator=U1(IR2101_SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Library Ref"; Value = "Mosfet Controllers"; VariantName = "[No Variations]"
+Added Component: Designator=U2(IR2101_SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Library Ref"; Value = "Mosfet Controllers"; VariantName = "[No Variations]"
+Added Component: Designator=U3(IR2101_SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Library Ref"; Value = "Mosfet Controllers"; VariantName = "[No Variations]"
+Added Component: Designator=U4(ATMEGA328PB-AU)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Microchip Technology'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ATMEGA328PB-AU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "MICROPROCESSOR"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found ABRACON ABLS
+Added Pin To Net: NetName=A0 Pin=R12-2
+Added Pin To Net: NetName=A0 Pin=R13-1
+Added Pin To Net: NetName=A0 Pin=R18-2
+Added Pin To Net: NetName=A0 Pin=U4-1
+Added Net: Name=A0
+Added Pin To Net: NetName=A1 Pin=R14-2
+Added Pin To Net: NetName=A1 Pin=R15-1
+Added Pin To Net: NetName=A1 Pin=R19-2
+Added Pin To Net: NetName=A1 Pin=U4-2
+Added Net: Name=A1
+Added Pin To Net: NetName=A2 Pin=R16-2
+Added Pin To Net: NetName=A2 Pin=R17-1
+Added Pin To Net: NetName=A2 Pin=R20-2
+Added Pin To Net: NetName=A2 Pin=U4-9
+Added Net: Name=A2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=GND Pin=D1--
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=GND Pin=R18-1
+Added Pin To Net: NetName=GND Pin=R19-1
+Added Pin To Net: NetName=GND Pin=R20-1
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U2-4
+Added Pin To Net: NetName=GND Pin=U3-4
+Added Pin To Net: NetName=GND Pin=U4-5
+Added Pin To Net: NetName=GND Pin=U4-21
+Added Net: Name=GND
+Added Pin To Net: NetName=MCU_MISO Pin=P1-6
+Added Pin To Net: NetName=MCU_MISO Pin=U4-16
+Added Net: Name=MCU_MISO
+Added Pin To Net: NetName=MCU_MOSI Pin=P1-7
+Added Pin To Net: NetName=MCU_MOSI Pin=U4-15
+Added Net: Name=MCU_MOSI
+Added Pin To Net: NetName=MCU_RESET Pin=P1-4
+Added Pin To Net: NetName=MCU_RESET Pin=U4-29
+Added Net: Name=MCU_RESET
+Added Pin To Net: NetName=MCU_SCK0 Pin=P1-5
+Added Pin To Net: NetName=MCU_SCK0 Pin=U4-17
+Added Net: Name=MCU_SCK0
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=L1-1
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Net: Name=NetC1_2
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetC2_2 Pin=R1-2
+Added Net: Name=NetC2_2
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=NetC4_1 Pin=C6-2
+Added Net: Name=NetC4_1
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=NetC7_1 Pin=R5-2
+Added Net: Name=NetC7_1
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Net: Name=NetC7_2
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=NetC8_1 Pin=D2-2
+Added Pin To Net: NetName=NetC8_1 Pin=U2-8
+Added Net: Name=NetC8_1
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=NetC8_2 Pin=R15-2
+Added Pin To Net: NetName=NetC8_2 Pin=U2-6
+Added Pin To Net: NetName=NetC8_2 Pin=IC3-3
+Added Pin To Net: NetName=NetC8_2 Pin=IC5-4
+Added Net: Name=NetC8_2
+Added Pin To Net: NetName=NetC9_1 Pin=C9-1
+Added Pin To Net: NetName=NetC9_1 Pin=D3-2
+Added Pin To Net: NetName=NetC9_1 Pin=U1-8
+Added Net: Name=NetC9_1
+Added Pin To Net: NetName=NetC9_2 Pin=C9-2
+Added Pin To Net: NetName=NetC9_2 Pin=R13-2
+Added Pin To Net: NetName=NetC9_2 Pin=U1-6
+Added Pin To Net: NetName=NetC9_2 Pin=IC2-3
+Added Pin To Net: NetName=NetC9_2 Pin=IC4-4
+Added Net: Name=NetC9_2
+Added Pin To Net: NetName=NetC12_1 Pin=C12-1
+Added Pin To Net: NetName=NetC12_1 Pin=D4-2
+Added Pin To Net: NetName=NetC12_1 Pin=U3-8
+Added Net: Name=NetC12_1
+Added Pin To Net: NetName=NetC12_2 Pin=C12-2
+Added Pin To Net: NetName=NetC12_2 Pin=R17-2
+Added Pin To Net: NetName=NetC12_2 Pin=U3-6
+Added Pin To Net: NetName=NetC12_2 Pin=IC6-3
+Added Pin To Net: NetName=NetC12_2 Pin=IC7-4
+Added Net: Name=NetC12_2
+Added Pin To Net: NetName=NetD1_+ Pin=D1-+
+Added Pin To Net: NetName=NetD1_+ Pin=R2-2
+Added Net: Name=NetD1_+
+Added Pin To Net: NetName=NetD5_C Pin=D5-C
+Added Pin To Net: NetName=NetD5_C Pin=P1-2
+Added Net: Name=NetD5_C
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=R4-2
+Added Net: Name=NetR3_2
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=NetR6_1 Pin=U1-7
+Added Net: Name=NetR6_1
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=NetR6_2 Pin=IC2-1
+Added Net: Name=NetR6_2
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetR7_1 Pin=U2-7
+Added Net: Name=NetR7_1
+Added Pin To Net: NetName=NetR7_2 Pin=R7-2
+Added Pin To Net: NetName=NetR7_2 Pin=IC3-1
+Added Net: Name=NetR7_2
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=NetR8_1 Pin=U1-5
+Added Net: Name=NetR8_1
+Added Pin To Net: NetName=NetR8_2 Pin=R8-2
+Added Pin To Net: NetName=NetR8_2 Pin=IC4-1
+Added Net: Name=NetR8_2
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Pin To Net: NetName=NetR9_1 Pin=U2-5
+Added Net: Name=NetR9_1
+Added Pin To Net: NetName=NetR9_2 Pin=R9-2
+Added Pin To Net: NetName=NetR9_2 Pin=IC5-1
+Added Net: Name=NetR9_2
+Added Pin To Net: NetName=NetR10_1 Pin=R10-1
+Added Pin To Net: NetName=NetR10_1 Pin=U3-7
+Added Net: Name=NetR10_1
+Added Pin To Net: NetName=NetR10_2 Pin=R10-2
+Added Pin To Net: NetName=NetR10_2 Pin=IC6-1
+Added Net: Name=NetR10_2
+Added Pin To Net: NetName=NetR11_1 Pin=R11-1
+Added Pin To Net: NetName=NetR11_1 Pin=U3-5
+Added Net: Name=NetR11_1
+Added Pin To Net: NetName=NetR11_2 Pin=R11-2
+Added Pin To Net: NetName=NetR11_2 Pin=IC7-1
+Added Net: Name=NetR11_2
+Added Pin To Net: NetName=NetU1_2 Pin=U1-2
+Added Pin To Net: NetName=NetU1_2 Pin=U4-23
+Added Net: Name=NetU1_2
+Added Pin To Net: NetName=NetU1_3 Pin=U1-3
+Added Pin To Net: NetName=NetU1_3 Pin=U4-24
+Added Net: Name=NetU1_3
+Added Pin To Net: NetName=NetU2_2 Pin=U2-2
+Added Pin To Net: NetName=NetU2_2 Pin=U4-25
+Added Net: Name=NetU2_2
+Added Pin To Net: NetName=NetU2_3 Pin=U2-3
+Added Pin To Net: NetName=NetU2_3 Pin=U4-26
+Added Net: Name=NetU2_3
+Added Pin To Net: NetName=NetU3_2 Pin=U3-2
+Added Pin To Net: NetName=NetU3_2 Pin=U4-27
+Added Net: Name=NetU3_2
+Added Pin To Net: NetName=NetU3_3 Pin=U3-3
+Added Pin To Net: NetName=NetU3_3 Pin=U4-28
+Added Net: Name=NetU3_3
+Added Pin To Net: NetName=PD2 Pin=R12-1
+Added Pin To Net: NetName=PD2 Pin=R14-1
+Added Pin To Net: NetName=PD2 Pin=R16-1
+Added Pin To Net: NetName=PD2 Pin=U4-32
+Added Net: Name=PD2
+Added Pin To Net: NetName=POWER_LED Pin=C4-2
+Added Pin To Net: NetName=POWER_LED Pin=D5-A
+Added Pin To Net: NetName=POWER_LED Pin=L1-2
+Added Pin To Net: NetName=POWER_LED Pin=R2-1
+Added Pin To Net: NetName=POWER_LED Pin=R3-1
+Added Pin To Net: NetName=POWER_LED Pin=U4-4
+Added Pin To Net: NetName=POWER_LED Pin=U4-18
+Added Pin To Net: NetName=POWER_LED Pin=U4-20
+Added Net: Name=POWER_LED
+Added Pin To Net: NetName=VCC Pin=C10-2
+Added Pin To Net: NetName=VCC Pin=C11-2
+Added Pin To Net: NetName=VCC Pin=C13-2
+Added Pin To Net: NetName=VCC Pin=D2-1
+Added Pin To Net: NetName=VCC Pin=D3-1
+Added Pin To Net: NetName=VCC Pin=D4-1
+Added Pin To Net: NetName=VCC Pin=U1-1
+Added Pin To Net: NetName=VCC Pin=U2-1
+Added Pin To Net: NetName=VCC Pin=U3-1
+Added Pin To Net: NetName=VCC Pin=IC2-4
+Added Pin To Net: NetName=VCC Pin=IC3-4
+Added Pin To Net: NetName=VCC Pin=IC6-4
+Added Net: Name=VCC
+Added Pin To Net: NetName=XTAL1 Pin=U4-7
+Added Net: Name=XTAL1
+Added Pin To Net: NetName=XTAL2 Pin=U4-8
+Added Net: Name=XTAL2
+Added Class: Name=Atmega328PB
+Added Class: Name=MosfetDrivers
+Added Class: Name=MP2307

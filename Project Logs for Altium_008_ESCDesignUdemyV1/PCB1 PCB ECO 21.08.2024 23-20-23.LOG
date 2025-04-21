@@ -1,0 +1,22 @@
+Added Component: Designator=IC1(MP2307_SOIC127P600X170_HS-9N)
+Add component (AddParameter): Name = "Converter Type"; Value = "Buck"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Ref"; Value = "Voltage Regulators"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "SMD"; VariantName = "[No Variations]"
+Added Component: Designator=Y1(16MHZ_CrsytalOscillator)
+Add component (AddParameter): Name = "Button Size"; Value = "12mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Ref"; Value = "Oscillator"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Oscillator Type"; Value = "Crystal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "AS-16.000-20-SMD-TR"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_2 Pin=IC1-1
+Added Pin To Net: NetName=NetC2_1 Pin=IC1-2
+Added Pin To Net: NetName=NetC1_1 Pin=IC1-3
+Added Pin To Net: NetName=GND Pin=IC1-4
+Added Pin To Net: NetName=NetR3_2 Pin=IC1-5
+Added Pin To Net: NetName=NetC7_2 Pin=IC1-6
+Added Pin To Net: NetName=NetR1_1 Pin=IC1-6
+Added Pin To Net: NetName=NetC3_2 Pin=IC1-8
+Added Pin To Net: NetName=XTAL1 Pin=Y1-1
+Added Pin To Net: NetName=XTAL2 Pin=Y1-2
+Added Member To Class: ClassName=MP2307 Member=Component IC1 Buck Converter
+Added Member To Class: ClassName=Atmega328PB Member=Component Y1 CRYSTAL 16MHZ 20PF
