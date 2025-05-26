@@ -1,0 +1,44 @@
+Added Component: Designator=D5(SMBJ18CA-TKS)
+Add component (AddParameter): Name = "Availability"; Value = "Available"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diode Direction"; Value = "Bidirectional"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Ref"; Value = "Diodes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "THINKING ELECTRONIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SMBJ18CA-TKS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "TVS"; VariantName = "[No Variations]"
+Added Component: Designator=D6(SMBJ18CA-TKS)
+Add component (AddParameter): Name = "Availability"; Value = "Available"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diode Direction"; Value = "Bidirectional"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Ref"; Value = "Diodes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "THINKING ELECTRONIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SMBJ18CA-TKS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "TVS"; VariantName = "[No Variations]"
+Added Component: Designator=D7(SMBJ18CA-TKS)
+Add component (AddParameter): Name = "Availability"; Value = "Available"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diode Direction"; Value = "Bidirectional"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Ref"; Value = "Diodes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "THINKING ELECTRONIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SMBJ18CA-TKS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "TVS"; VariantName = "[No Variations]"
+Added Component: Designator=P2(Single 7-Pin (2.54mm) Female Header)
+Add component (AddParameter): Name = "Library Ref"; Value = "Header"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC9_2 Pin=D5-1
+Added Pin To Net: NetName=GND Pin=D5-2
+Added Pin To Net: NetName=NetC8_2 Pin=D6-1
+Added Pin To Net: NetName=GND Pin=D6-2
+Added Pin To Net: NetName=NetC12_2 Pin=D7-1
+Added Pin To Net: NetName=GND Pin=D7-2
+Added Pin To Net: NetName=GND Pin=P2-1
+Added Pin To Net: NetName=MCU_RESET Pin=P2-4
+Added Pin To Net: NetName=MCU_SCK0 Pin=P2-5
+Added Pin To Net: NetName=MCU_MISO Pin=P2-6
+Added Pin To Net: NetName=MCU_MOSI Pin=P2-7
+Added Member To Class: ClassName=MosfetDrivers Member=Component D5 SMBJ18CA
+Added Member To Class: ClassName=MosfetDrivers Member=Component D6 SMBJ18CA
+Added Member To Class: ClassName=MosfetDrivers Member=Component D7 SMBJ18CA
+Added Member To Class: ClassName=Atmega328PB Member=Component P2 7-Pin Female Header 2.54mm

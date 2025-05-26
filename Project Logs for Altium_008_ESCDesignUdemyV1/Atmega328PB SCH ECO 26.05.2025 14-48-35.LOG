@@ -1,0 +1,4 @@
+Remove Pin=P2-4 From Net=MCU_RESET
+Remove Pin=P2-5 From Net=MCU_SCK0
+Remove Pin=P2-6 From Net=MCU_MISO
+Remove Pin=P2-7 From Net=MCU_MOSI
